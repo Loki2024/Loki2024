@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Lokesh, and I'm a sophomore at the University of Pittsburgh majoring in computer science and data science!
+
+- 📫 How to reach me: ldaita2024@gmail.com
+
 <!--
 **Loki2024/loki2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +15,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
