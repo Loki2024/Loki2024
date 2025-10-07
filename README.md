@@ -38,5 +38,5 @@ I am a 2nd year student at the University of Pittsburgh majoring in Computer Sci
   <img align="left" alt="LinkedIn" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
 </a>
 <a href="https://www.linkedin.com/in/lokesh-daita" target="_blank">
-  <img align="left" alt="LinkedIn" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png"/>
+  <img align="left" alt="LinkedIn" width="50px" style="padding-right:10px;" src="https://images.icon-icons.com/2642/PNG/512/google_mail_gmail_logo_icon_159346.png"/>
 </a>
