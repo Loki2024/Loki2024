@@ -10,7 +10,7 @@ I am a 2nd year student at the University of Pittsburgh majoring in Computer Sci
 - Undergraduate Researcher @ University of Pittsburgh School of Computing and Information
 - Engineering and Software Associate @ University of Pittsburgh URC Rover Team
 
----
+#
 
 ### Tech Stack
 
