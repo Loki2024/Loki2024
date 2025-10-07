@@ -29,6 +29,9 @@ I am a 2nd year student at the University of Pittsburgh majoring in Computer Sci
 <img align="left" alt="MongoDB" width="34px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
 <img align="left" alt="Git" width="34px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 
+<br clear="left"/>
+
+#
 
 ### Connect With Me
 <a href="https://www.linkedin.com/in/lokesh-daita/" target="_blank">
