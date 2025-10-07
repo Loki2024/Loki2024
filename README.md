@@ -35,8 +35,5 @@ I am a 2nd year student at the University of Pittsburgh majoring in Computer Sci
 
 ### Connect With Me
 <a href="https://www.linkedin.com/in/lokesh-daita" target="_blank">
-  <img align="left" alt="LinkedIn" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
-</a>
-<a href="https://www.linkedin.com/in/lokesh-daita" target="_blank">
-  <img align="left" alt="LinkedIn" width="80px" style="padding-right:10px;" src="https://images.icon-icons.com/2642/PNG/512/google_mail_gmail_logo_icon_159346.png"/>
+  <img align="left" alt="LinkedIn" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
 </a>
