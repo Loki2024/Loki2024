@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Lokesh, and I'm a sophomore at the University of Pittsburgh majoring in computer science and data science!
+My name is Lokesh Daita, and I'm a sophomore at the University of Pittsburgh majoring in computer science and data science!
 
 - 📫 How to reach me: ldaita2024@gmail.com
 
