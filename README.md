@@ -2,7 +2,7 @@
 
 **`Software Engineer`**
 
-#### About Me
+### About Me
 
 I am a 2nd year student at the University of Pittsburgh majoring in Computer Science and Data Science as well as minoring in Economics and Applied Statistics. I am passionate about utilizing technology to solve complex problems at a global scale! I also aspire to leverage AI technology to resolve large environmental issues that have a significant impact on the world!
 - Undergraduate Researcher @ University of Pittsburgh School of Computing and Information
@@ -10,7 +10,7 @@ I am a 2nd year student at the University of Pittsburgh majoring in Computer Sci
 
 #
 
-#### Tech Stack
+### Tech Stack
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
@@ -28,3 +28,6 @@ I am a 2nd year student at the University of Pittsburgh majoring in Computer Sci
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+
+### Connect With Me
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
