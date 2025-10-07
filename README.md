@@ -41,5 +41,5 @@ I am a 2nd year student at the University of Pittsburgh majoring in Computer Sci
   <img align="center" alt="LinkedIn" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
 </a>
 <a href="https://github.com/Loki2024" target="_blank">
-  <img align="center" alt="LinkedIn" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
+  <img align="center" alt="LinkedIn" width="50px" style="padding-right:10px;" src="https://devicon.dev/icons/github/github-original-white.svg"/>
 </a>
