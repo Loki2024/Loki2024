@@ -5,7 +5,8 @@
 ### About Me
 
 I am currently a student at the University of Pittsburgh majoring in Computer Science and Data Science as well as minoring in Economics. I am passionate about utilizing technology to solve complex problems at a global scale! I also aspire to leverage AI technology to resolve large environmental issues that have a significant impact on the world!
-- AI/ML Engineering Intern @ University of Pittsburgh
+- Technology Analyst Intern @ Accenture
+- AI/ML Engineer Intern @ University of Pittsburgh
 - Undergraduate Machine Learning Research Assistant @ University of Pittsburgh School of Computing and Information
 - Robotics Software Engineer @ University of Pittsburgh URC Rover Team
 
